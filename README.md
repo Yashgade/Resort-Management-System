@@ -1,2 +1,2 @@
-# Resort-Management-System-Web-Devolopment-
+# Resort-Management-System
 Front End project for resort
